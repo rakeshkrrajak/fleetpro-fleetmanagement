@@ -1,2 +1,14 @@
-# fleetpro-fleetmanagement
-This repository provide FleetPro v1.1: Navigating the Future of Fleet Management  Transform your fleet operations with our comprehensive management solution. FleetPro v1.1 brings clarity to chaos, turning data into decisions and costs into savings.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

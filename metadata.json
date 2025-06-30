@@ -1,0 +1,6 @@
+{
+  "name": "FleetPro-v1.1",
+  "description": "A fleet management application to track vehicles and drivers, featuring AI-powered maintenance advice and a map overview.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
