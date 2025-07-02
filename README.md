@@ -64,7 +64,7 @@ flowchart TD
 ## Chapters
 
 1. [Vehicles (Fleet Entity)
-](01_vehicles__fleet_entity__.md)
+](tutorial/01_vehicles__fleet_entity__.md)
 2. [Dealerships (Wholesale Entity)
 ](02_dealerships__wholesale_entity__.md)
 3. [Trips (Fleet Feature)
