@@ -1,7 +1,6 @@
 # Tutorial: Fleetpro-fleetmanagement
 
-This project is a web application for **managing vehicle fleets** (like trucks) and handling **wholesale financing** for dealerships.
-It allows users to view vehicle details, track trips, manage maintenance, monitor alerts, log costs, and also handle dealership credit lines and financed inventory.
+This project is a web application for **managing vehicle fleets** (like Cars and trucks). It allows users to view vehicle details, track trips, manage maintenance, monitor alerts, log costs, and also handle dealership credit lines and financed inventory.
 The app structure uses **React** for building *pages* and *components*, with data managed in the main application state, mimicking a real backend interaction.
 
 
