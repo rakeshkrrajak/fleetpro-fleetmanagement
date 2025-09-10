@@ -1,4 +1,4 @@
-# Tutorial: fleetpro-fleetmanagement
+# Tutorial: Fleetpro-fleetmanagement
 
 This project is a web application for **managing vehicle fleets** (like trucks) and handling **wholesale financing** for dealerships.
 It allows users to view vehicle details, track trips, manage maintenance, monitor alerts, log costs, and also handle dealership credit lines and financed inventory.
